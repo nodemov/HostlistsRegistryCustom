@@ -742,8 +742,6 @@
 ||googletagservices-cn.com^
 ||googletraveladservices-cn.com^
 ||googletraveladservices.com^
-||googleusercontent.com^
-||googlevideo.com^
 ||googlew.com^
 ||googlezip.net^
 ||gooogleapi.com^
