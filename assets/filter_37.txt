@@ -1,6 +1,6 @@
 !
 ! Title: No Google
-! Description: Completely blocks all Google-related domains (including YouTube).
+! Description: Completely blocks all Google-related domains (No YouTube).
 ! Version: 1.0.14.55
 ! Homepage: https://github.com/nickspaargaren/no-google
 ! Last modified: 2025-07-14T21:07:43.219Z
@@ -346,7 +346,6 @@
 ||urchin.fr^
 ||www.google.com.tn^
 ||www.google.it.ao^
-||youtube-3rd-party.com^
 ||doubleclick-cn.net^
 ||doubleclick.com^
 ||doubleclick.de^
@@ -1573,18 +1572,6 @@
 ||goo.gl^
 ||youtu.be^
 ||yt.be^
-||withyoutube.com^
-||youtube-nocookie.com^
-||youtube.be^
-||youtube.co.uk^
-||youtube.com^
-||youtube.de^
-||youtube.es^
-||youtube.fr^
-||youtube.nl^
-||youtube.pl^
-||youtubeeducation.com^
-||youtubegaming.com^
 ||ytimg.com^
 ||fitbit.com^
 ||GCP02-NF-01.corp.fitbit.com^
